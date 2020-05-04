@@ -41,8 +41,10 @@
                                 },
                                 {
                                 "type": "group",
+                                "header": "States",
                                 "content": {
                                     "type": "layout",
+                                    "h_alignment": "left",
                                     "key": "Diverse"
                                 }
                                 }
