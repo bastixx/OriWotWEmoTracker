@@ -1,35 +1,27 @@
 {
-
     "tracker_default": {
-        "type": "container",
+        "type": "array",
         "background": "#1C1C1C",
-        "content": {
-            "type": "dock",
-            "content":[
-                {
-                    "type": "array",
-                    "dock": "top",
-                    "content":[
-                        {
-                            "type": "group",
-                            "header": "Skills",
-                            "content":{
-                                "type": "layout",
-                                "key": "Skills"
-                            }
-                        },
-                        {
-                            "type": "group",
-                            "header": "Wisps",
-                            "content":{
-                                "type": "layout",
-                                "key": "WispsSmall"
-                            }
-                        }
-                    ]
-                }
-            ]
-        }
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "dropshadow": true,
+                "content": [
+                    {
+                        "type": "layout",
+                        "key": "Skills"
+                    },
+                    {
+                        "type": "layout",
+                        "key": "WispsSmall"
+                    },
+                    {
+                        "type": "layout",
+                        "key": "Diverse"
+                    }
+                ]
+            }
+        ]
     }
-
 }
