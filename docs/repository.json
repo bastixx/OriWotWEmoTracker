@@ -4,9 +4,20 @@
         {
         "name": "OriWotW randomiser tracker",
         "author": "Bastixx",
+        "game_name": "Ori and the Will of the Wisps",
         "version": "1.0.0",
-        "uid": "OriWotWEmoTracker",
-        "link": "https://bastixx.github.io/OriWotWEmoTracker/OriWotWEmoTracker.zip"
+        "uid": "oriwotwrandotracker_bastixx",
+        "link": "https://bastixx.github.io/OriWotWEmoTracker/oriwotwrandotracker_bastixx.zip",
+        "variants": [
+            {
+              "name": "Skills + Wisps",
+              "flags": [ "chathud" ]
+            },
+            {
+              "name": "All trackables + Map",
+              "flags": [  ]
+            }
+        ]
         }
     ]
 }
