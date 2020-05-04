@@ -1,0 +1,188 @@
+﻿[
+    {
+        "name": "Spirit Edge",
+        "type": "toggle",
+        "img": "images/Skills/Sword.png",
+        "codes": "sword, spiritedge"
+    },
+    {
+        "name": "Double Jump",
+        "type": "toggle",
+        "img": "images/Skills/DoubleJump.png",
+        "codes": "djump, doublejump, "
+    },
+    {
+        "name": "Bash",
+        "type": "toggle",
+        "img": "images/Skills/Bash.png",
+        "codes": "bash"
+    },
+    {
+        "name": "Dash",
+        "type": "toggle",
+        "img": "images/Skills/Dash.png",
+        "codes": "dash"
+    }, 
+    {
+        "name": "Spirit Arc",
+        "type": "toggle",
+        "img": "images/Skills/Bow.png",
+        "codes": "bow, spiritarc"
+    },
+    {
+        "name": "Regenerate",
+        "type": "toggle",
+        "img": "images/Skills/Regenerate.png",
+        "codes": "regen, regenerate"
+    },
+    // {
+    //     "name": "Dig",
+    //     "type": "toggle",
+    //     "img": "images/Skills/Dig.png",
+    //     "codes": "dig"
+    // },
+    {
+        "name": "Grapple",
+        "type": "toggle",
+        "img": "images/Skills/Leash.png",
+        "codes": "leash, grapple"
+    },
+    {
+        "name": "Spirit Spear",
+        "type": "progressive",
+        "allow_disabled": true,
+        "stages": [
+          {
+            "img": "images/Skills/SpiritSpear.png",
+            "codes": "spear"
+          },
+          {
+            "img": "images/Skills/SpiritSpearUpgrade.png",
+            "codes": "spear2,spearUpgrade"
+          }
+        ]
+    },
+    {
+        "name": "Spirit Sentry",
+        "type": "progressive",
+        "allow_disabled": true,
+        "stages": [
+          {
+            "img": "images/Skills/SpiritSentry.png",
+            "codes": "sentry"
+          },
+          {
+            "img": "images/Skills/SpiritSentryUpgrade.png",
+            "codes": "sentry2,sentryUpgrade"
+          }
+        ]
+    },
+    {
+        "name": "Light Burst",
+        "type": "toggle",
+        "img": "images/Skills/LightBurst.png",
+        "codes": "lightburst"
+    },
+    {
+        "name": "Seir",
+        "type": "toggle",
+        "img": "images/Skills/GoldenSein.png",
+        "codes": "seir"
+    },
+    {
+        "name": "Water Dash",
+        "type": "toggle",
+        "img": "images/Skills/SwimDash.png",
+        "codes": "swimdash, waterdash"
+    },
+    {
+        "name": "WaterBreathe",
+        "type": "toggle",
+        "img": "images/Skills/WaterBreathe.png",
+        "codes": "waterbreath, waterbreathing"
+    },
+    {
+        "name": "Glide",
+        "type": "toggle",
+        "img": "images/Skills/Glide.png",
+        "codes": "glide, feather"
+    },
+    {
+        "name": "Flap",
+        "type": "toggle",
+        "img": "images/Skills/Feather.png",
+        "codes": "flap"
+    },
+    {
+        "name": "Flash",
+        "type": "toggle",
+        "img": "images/Skills/Flash.png",
+        "codes": "flash"
+    },
+    {
+        "name": "Burrow",
+        "type": "toggle",
+        "img": "images/Skills/Drill.png",
+        "codes": "burrow"
+    },
+    {
+        "name": "Chakram",
+        "type": "progressive",
+        "allow_disabled": true,
+        "stages": [
+          {
+            "img": "images/Skills/Chakram.png",
+            "codes": "chakram"
+          },
+          {
+            "img": "images/Skills/ChakramUpgrade.png",
+            "codes": "chakram2,chakramupgrade"
+          }
+        ]
+    },
+    {
+        "name": "Blaze",
+        "type": "progressive",
+        "allow_disabled": true,
+        "stages": [
+          {
+            "img": "images/Skills/Blaze.png",
+            "codes": "blaze"
+          },
+          {
+            "img": "images/Skills/BlazeUpgrade.png",
+            "codes": "blaze2,blazeupgrade"
+          }
+        ]
+    },
+    {
+        "name": "Damage Upgrade",
+        "type": "progressive",
+        "allow_disabled": true,
+        "stages": [
+          {
+            "img": "images/Skills/WeaponUpgrade1.png",
+            "codes": "weaponUpgrade,wu"
+          },
+          {
+            "img": "images/Skills/WeaponUpgrade2.png",
+            "codes": "weaponUpgrade2,wu2"
+          }
+        ]
+    },
+    {
+      "name": "Spirit Smash",
+      "type": "progressive",
+      "allow_disabled": true,
+      "stages": [
+        {
+          "img": "images/Skills/Hammer.png",
+          "codes": "hammer"
+        },
+        {
+          "img": "images/Skills/Shockwave.png",
+          "codes": "hammer2,hammerupgrade"
+        }
+      ]
+  }
+]    

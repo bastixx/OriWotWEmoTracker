@@ -1,0 +1,35 @@
+{
+
+    "tracker_default": {
+        "type": "container",
+        "background": "#1C1C1C",
+        "content": {
+            "type": "dock",
+            "content":[
+                {
+                    "type": "array",
+                    "dock": "top",
+                    "content":[
+                        {
+                            "type": "group",
+                            "header": "Skills",
+                            "content":{
+                                "type": "layout",
+                                "key": "Skills"
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Wisps",
+                            "content":{
+                                "type": "layout",
+                                "key": "WispsSmall"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+
+}

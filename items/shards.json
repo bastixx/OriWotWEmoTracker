@@ -1,0 +1,189 @@
+[
+    {
+        "name": "Resilience",
+        "type": "toggle",
+        "img": "images/Shards/ShardBarrier.png",
+        "codes": "shardresilience"
+    },
+    {
+        "name": "Magnet",
+        "type": "toggle",
+        "img": "images/Shards/ShardSpiritMagnet.png",
+        "codes": "shardmagnet"
+    },
+    {
+        "name": "Sticky",
+        "type": "toggle",
+        "img": "images/Shards/ShardGlue.png",
+        "codes": "shardsticky"
+    },
+    {
+        "name": "Reckless",
+        "type": "toggle",
+        "img": "images/Shards/ShardsReckless.png",
+        "codes": "shardreckless"
+    },
+    {
+        "name": "Quickshot",
+        "type": "toggle",
+        "img": "images/Shards/ShardFrenzy.png",
+        "codes": "shardquickshat"
+    },
+    {
+        "name": "Life Harvest",
+        "type": "toggle",
+        "img": "images/Shards/ShardLifeHarvest.png",
+        "codes": "shardlifeharvest"
+    },
+    {
+        "name": "Splinter",
+        "type": "toggle",
+        "img": "images/Shards/ShardArrowSplinter.png",
+        "codes": "shardsplinter"
+    },
+    {
+        "name": "Spirit Surge",
+        "type": "toggle",
+        "img": "images/Shards/ShardSpiritPower.png",
+        "codes": "shardspiritsurge"
+    },
+    {
+        "name": "Ultra Bash",
+        "type": "toggle",
+        "img": "images/Shards/ShardUltraBash.png",
+        "codes": "shardultrabash"
+    },
+    {
+        "name": "Thorn",
+        "type": "toggle",
+        "img": "images/Shards/ShardCounterStrike.png",
+        "codes": "shardthorn"
+    },
+    {
+        "name": "Energy Harvest",
+        "type": "toggle",
+        "img": "images/Shards/ShardEnergyLuck.png",
+        "codes": "shardenergyharvest"
+    },
+    {
+        "name": "Catalyst",
+        "type": "toggle",
+        "img": "images/Shards/ShardCatalyst.png",
+        "codes": "shardcatalyst"
+    },
+    {
+        "name": "Last Stand",
+        "type": "toggle",
+        "img": "images/Shards/ShardLastResort.png",
+        "codes": "shardlaststand"
+    },
+    {
+        "name": "Turmoil",
+        "type": "toggle",
+        "img": "images/Shards/ShardAggressor.png",
+        "codes": "shardturmoil"
+    },
+    {
+        "name": "Life Pact",
+        "type": "toggle",
+        "img": "images/Shards/ShardBloodPact.png",
+        "codes": "shardlifepact"
+    },
+    {
+        "name": "Bounty",
+        "type": "toggle",
+        "img": "images/Shards/ShardBounty.png",
+        "codes": "shardbounty"
+    },
+    {
+        "name": "Arcing",
+        "type": "toggle",
+        "img": "images/Shards/ShardChainLighting.png",
+        "codes": "shardarcing"
+    },
+    {
+        "name": "Energy",
+        "type": "toggle",
+        "img": "images/Shards/ShardEnergy.png",
+        "codes": "shardenergy"
+    },
+    {
+        "name": "Vitality",
+        "type": "toggle",
+        "img": "images/Shards/ShardVitality.png",
+        "codes": "shardvitality"
+    },
+    {
+        "name": "Wingclip",
+        "type": "toggle",
+        "img": "images/Shards/ShardAntiair.png",
+        "codes": "shardwingclip"
+    },
+    {
+        "name": "Finesse",
+        "type": "toggle",
+        "img": "images/Shards/ShardCombatLuck.png",
+        "codes": "shardfinesse"
+    },
+    {
+        "name": "Overcharge",
+        "type": "toggle",
+        "img": "images/Shards/ShardOvercharge.png",
+        "codes": "shardovercharge"
+    },
+    {
+        "name": "Ultra Grapple",
+        "type": "toggle",
+        "img": "images/Shards/ShardUltraLeash.png",
+        "codes": "shardultragrapple"
+    },
+    {
+        "name": "Overflow",
+        "type": "toggle",
+        "img": "images/Shards/ShardRecycler.png",
+        "codes": "shardoverflow"
+    },
+    {
+        "name": "Lifeforce",
+        "type": "toggle",
+        "img": "images/Shards/ShardLifeforce.png",
+        "codes": "shardlifeforce"
+    },
+    {
+        "name": "Secret",
+        "type": "toggle",
+        "img": "images/Shards/ShardSense.png",
+        "codes": "shardsecret"
+    },
+    {
+        "name": "Deflector",
+        "type": "toggle",
+        "img": "images/Shards/ShardMirrorStrike.png",
+        "codes": "sharddeflector"
+    },
+    {
+        "name": "Light Harvest",
+        "type": "toggle",
+        "img": "images/Shards/ShardSpiritLuck.png",
+        "codes": "shardlightharvest"
+    },
+    {
+        "name": "Triple Jump",
+        "type": "toggle",
+        "img": "images/Shards/ShardTripleJump.png",
+        "codes": "shardtriplejump"
+    },
+    {
+        "name": "Swap",
+        "type": "toggle",
+        "img": "images/Shards/ShardSwap.png",
+        "codes": "shardswap"
+    },
+    {
+        "name": "Fracture",
+        "type": "toggle",
+        "img": "images/Shards/ShardFracture.png",
+        "codes": "shardfracture"
+    }
+
+]

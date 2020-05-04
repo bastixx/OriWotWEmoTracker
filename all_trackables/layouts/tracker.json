@@ -1,0 +1,144 @@
+{
+
+    "tracker_default": {
+        "type": "container",
+        "background": "#877373",
+        "content": {
+            "type": "dock",
+            "content":[
+                {
+                    "type": "dock",
+                    "dock": "bottom",
+                    "content":[
+                        {
+                            "type": "group",
+                            "header": "Skills",
+                            "dock": "left",
+                            "content":{
+                                "type": "layout",
+                                "key": "Skills"
+                            }
+                        },
+                        {
+                            "type": "group",
+                            "header": "Quests",
+                            "content":{
+                                "type": "layout",
+                                "key": "Quests"
+                            }
+                        },
+                        {
+                            "type": "dock",
+                            "content": [
+                                {
+                                "type": "group",
+                                "header": "Wisps",
+                                "dock": "top",
+                                "content":{
+                                    "type": "layout",
+                                    "key": "Wisps"
+                                }
+                                },
+                                {
+                                "type": "group",
+                                "content": {
+                                    "type": "layout",
+                                    "key": "Diverse"
+                                }
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "type": "tabbed",
+                    "dock": "top",
+                    "tabs": [
+                    {
+                        "title": "Baur's Reach",
+                        "content": {
+                            "type": "map",
+                            "maps": [
+                                "baursreach"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Inkwater Marsh",
+                        "content": {
+                            "type": "map",
+                            "maps": [
+                                "inkwatermarsh"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Kwolok's Hollow",
+                        "content": {
+                            "type": "map",
+                            "maps": [
+                                "kwolokshollow"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Luma Pools",
+                        "content": {
+                            "type": "map",
+                            "maps": [
+                                "lumapools"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Mouldwood Depts",
+                        "content": {
+                            "type": "map",
+                            "maps": [
+                                "mouldwooddepts"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Silent Woods",
+                        "content": {
+                            "type": "map",
+                            "maps": [
+                                "silentwoods"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "The Wellspring",
+                        "content": {
+                            "type": "map",
+                            "maps": [
+                                "thewellspring"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Wellspring Glades",
+                        "content": {
+                            "type": "map",
+                            "maps": [
+                                "wellspringglades"
+                            ]
+                        }
+                    },
+                    {
+                        "title": "Windswept Wastes",
+                        "content": {
+                            "type": "map",
+                            "maps": [
+                                "windsweptwastes"
+                            ]
+                        }
+                    }
+                    ]
+                }
+            ]
+        }
+    }
+
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "name": "The Missing Key",
+    "type": "toggle",
+    "img": "images/SideQuests/TokksKeystone.png",
+    "codes": "missingkey"
+  },
+  {
+    "name": "The Tree keeper",
+    "type": "toggle",
+    "img": "images/SideQuests/TreeKeeper.png",
+    "codes": "treekeeper"
+  },
+  {
+    "name": "The Silent Map",
+    "type": "toggle",
+    "img": "images/SideQuests/SilentMap.png",
+    "codes": "silentmap"
+  },
+  {
+    "name": "Lost Compass",
+    "type": "toggle",
+    "img": "images/SideQuests/LostCompass.png",
+    "codes": "lostcompass"
+  },
+  {
+    "name": "Rebuilding the Glade",
+    "type": "toggle",
+    "img": "images/SideQuests/SearchOfGrol.png",
+    "codes": "rebuildingtheglade"
+  },
+  {
+    "name": "Regrowing the Glade",
+    "type": "toggle",
+    "img": "images/SideQuests/Gardener.png",
+    "codes": "regrowingtheglade"
+  },
+  {
+    "name": "Into the burrows",
+    "type": "toggle",
+    "img": "images/SideQuests/SecretOfWell.png",
+    "codes": "intotheburrows"
+  },
+  {
+    "name": "Family Reunion",
+    "type": "toggle",
+    "img": "images/SideQuests/FamilyReunion.png",
+    "codes": "familyreunion"
+  },
+  {
+    "name": "Hand To Hand",
+    "type": "toggle",
+    "img": "images/SideQuests/HandToHand.png",
+    "codes": "handtohand"
+  },
+  {
+    "name": "A Diamond in the Rough",
+    "type": "toggle",
+    "img": "images/SideQuests/MysteriousGem.png",
+    "codes": "adiamondintherough"
+  },
+  {
+    "name": "A Little Braver",
+    "type": "toggle",
+    "img": "images/SideQuests/BraveMokki.png",
+    "codes": "bravemokki"
+  },
+  {
+    "name": "Into the Darkness",
+    "type": "toggle",
+    "img": "images/SideQuests/IntoTheDarkness.png",
+    "codes": "intothedarkness"
+  },
+  {
+    "name": "Kwolok Wisdom",
+    "type": "toggle",
+    "img": "images/SideQuests/KwoloksWisdom.png",
+    "codes": "kwolokswisdom"
+  },
+  {
+    "name": "The Silent Teeth",
+    "type": "toggle",
+    "img": "images/MainQuests/CleanseWatermill.png",
+    "codes": "silentteeth"
+  },
+  {
+    "name": "Beneath Shifting Sands",
+    "type": "toggle",
+    "img": "images/MainQuests/DesertRuins.png",
+    "codes": "beneathshiftingsands"
+  },
+  {
+    "name": "Fallen Friend",
+    "type": "toggle",
+    "img": "images/MainQuests/FindKu.png",
+    "codes": "fallenfriend"
+  },
+  {
+    "name": "Guardian of the Marsh",
+    "type": "toggle",
+    "img": "images/MainQuests/FindKwolok.png",
+    "codes": "guardiansofthemarsh"
+  },
+  {
+    "name": "Lost in Paradise",
+    "type": "toggle",
+    "img": "images/MainQuests/WispLagoon.png",
+    "codes": "lostinparadise"
+  },
+  {
+    "name": "Breaking the Mould",
+    "type": "toggle",
+    "img": "images/MainQuests/WispMouldwood.png",
+    "codes": "breakingthemould"
+  },
+  {
+    "name": "The Highest Reach",
+    "type": "toggle",
+    "img": "images/MainQuests/WispWinterforest.png",
+    "codes": "highestreach"
+  },
+  {
+    "name": "The Will of the Wisps",
+    "type": "toggle",
+    "img": "images/MainQuests/SpiritTree.png",
+    "codes": "willofthewisps"
+  }
+]

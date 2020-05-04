@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Heart of the Forest",
+        "type": "toggle",
+        "img": "images/Wisps/GoldenWisp.png",
+        "codes": "heartwisp, wispheart"
+    },
+    {
+        "name": "Strength of the Forest",
+        "type": "toggle",
+        "img": "images/Wisps/Wisp.png",
+        "codes": "strengthwisp, wispstrength"
+    },
+    {
+        "name": "Voice of the Forest",
+        "type": "toggle",
+        "img": "images/Wisps/Wisp.png",
+        "codes": "voicewisp, wispvoice"
+    },
+    {
+        "name": "Memory of the Forest",
+        "type": "toggle",
+        "img": "images/Wisps/Wisp.png",
+        "codes": "memorywisp, wispmemory"
+    },    {
+        "name": "Eyes of the Forest",
+        "type": "toggle",
+        "img": "images/Wisps/Wisp.png",
+        "codes": "eyeswisp, wispeyes"
+    }
+
+]

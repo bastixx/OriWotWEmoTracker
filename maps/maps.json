@@ -1,0 +1,42 @@
+﻿[
+  // {
+  //   "name": "worldmap",
+  //   "img": "images/map_pickups.png"
+  // },
+  {
+    "name": "baursreach",
+    "img": "images/Maps/Baur's Reach.png"
+  },
+  {
+    "name": "inkwatermarsh",
+    "img": "images/Maps/Inkwater Marsh.png"
+  },
+  {
+    "name": "kwolokshollow",
+    "img": "images/Maps/Kwolok's Hollow.png"
+  },
+  {
+    "name": "lumapools",
+    "img": "images/Maps/Luma Pools.png"
+  },
+  {
+    "name": "mouldwooddepts",
+    "img": "images/Maps/mouldwood Depts.png"
+  },
+  {
+    "name": "silentwoods",
+    "img": "images/Maps/Silent Woods.png"
+  },
+  {
+    "name": "thewellspring",
+    "img": "images/Maps/The Wellspring.png"
+  },
+  {
+    "name": "wellspringglades",
+    "img": "images/Maps/Wellspring Glades.png"
+  },
+  {
+    "name": "windsweptwastes",
+    "img": "images/Maps/Windswept Wastes.png"
+  }
+]

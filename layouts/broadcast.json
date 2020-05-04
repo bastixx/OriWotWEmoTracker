@@ -1,0 +1,37 @@
+﻿{
+    "tracker_broadcast": {
+        "type": "array",
+        "dropshadow": true,
+        "margin": "10",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "h_alignment": "center",
+                        "item_margin": "4,5",
+                        "item_size": 50,
+                        "rows": [
+                            [ "djump", "regen", "bow", "dash" ],
+                            [ "bash", "lightburst", "sentry", "blaze" ],
+                            [ "burrow", "leash", "glide", "flap" ],
+                            [ "flash", "waterbreath", "swimdash", "hammer" ],
+                            [ "chakram", "spear", "weaponupgrade" ]
+                        ]
+                    },
+                    {
+                        "type": "itemgrid",
+                        "h_alignment": "center",
+                        "item_margin": "4,5",
+                        "item_size": 50,
+                        "rows": [
+                            [ "voicewisp", "strengthwisp", "eyeswisp", "memorywisp", "heartwisp" ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,71 @@
+﻿{
+
+    "Skills": {
+        "type": "itemgrid",
+        "item_margin": "2,2",
+        "item_size": 50,
+        "rows": [
+            [ "djump", "regen", "bow", "dash", "bash" ],
+            [ "burrow", "leash", "glide", "flap", "lightburst" ],
+            [ "flash", "waterbreath", "swimdash", "hammer", "sentry" ],
+            [ "blaze", "chakram", "spear", "weaponupgrade" ]
+        ]
+    },
+    "Quests": {
+        "type": "itemgrid",
+        "item_margin": "2,2",
+        "item_size": 50,
+        "rows": [
+            [ "missingkey", "treekeeper", "silentmap", "lostcompass", "rebuildingtheglade" ],
+            [ "regrowingtheglade", "intotheburrows", "familyreunion", "handtohand", "adiamondintherough" ],
+            [ "bravemokki", "intothedarkness", "kwolokswisdom", "silentteeth", "beneathshiftingsands" ],
+            [ "fallenfriend", "guardiansofthemarsh", "lostinparadise", "breakingthemould", "highestreach" ],
+            [ "willofthewisps" ]
+        ]
+    },
+    "Shards": {
+        "type": "itemgrid",
+        "item_margin": "2,2",
+        "item_size": 50,
+        "rows": [
+            [ "shardresilience", "shardmagnet", "shardsticky", "shardreckless", "shardquickshat" ],
+            [ "shardlifeharvest", "shardsplinter", "shardspiritsurge", "shardultrabash", "shardthorn" ],
+            [ "shardenergyharvest", "shardcatalyst", "shardlaststand", "shardturmoil", "shardlifepact" ],
+            [ "shardbounty", "shardarcing", "shardenergy", "shardvitality", "shardwingclip" ],
+            [ "shardfinesse", "shardovercharge", "shardultragrapple", "shardoverflow", "shardlifeforce" ],
+            [ "shardsecret", "sharddeflector", "shardlightharvest", "shardtriplejump", "shardswap", "shardfracture" ]
+        ]
+    },
+    "Wisps": {
+        "type": "itemgrid",
+        "item_margin": "2,2",
+        "item_size": 50,
+        "h_alignment": "left",
+        "height": 250,
+        "width": 250,
+        "rows": [
+            [ "", "memorywisp", "" ],
+            [ "strengthwisp", "heartwisp", "voicewisp" ],
+            [ "", "eyeswisp", "" ]
+        ]
+    },
+    "Diverse": {
+        "type": "itemgrid",
+        "item_size": 50,
+        "h_alignment": "left",
+        "v_alignment": "top",
+        "rows": [
+            [ "spiritlight", "keystone"]
+        ]
+    },
+    "WispsSmall": {
+            "type": "itemgrid",
+            "h_alignment": "center",
+            "item_margin": "2,2",
+            "item_size": 50,
+            "rows": [
+                [ "voicewisp", "strengthwisp", "eyeswisp", "memorywisp", "heartwisp" ]
+            ]
+        }
+
+}

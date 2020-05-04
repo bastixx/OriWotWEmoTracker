@@ -1,0 +1,34 @@
+{
+    "Lua.diagnostics.globals": [
+        "Tracker"
+    ],
+    "Lua.diagnostics.disable": [
+        "trailing-space"
+    ],
+    "files.associations": {
+
+    },
+    "json.schemas": [
+        {
+            "fileMatch": [
+                "*/items/*.json",
+                "*/*.items.json",
+            ],
+            "url": "https://emotracker.net/developers/schemas/items.json"
+        },
+        {
+            "fileMatch": [
+                "*/layouts/*.json",
+                "*/*.layouts.json",
+            ],
+            "url": "https://emotracker.net/developers/schemas/layouts.json"
+        },
+        {
+            "fileMatch": [
+                "*/locations/*.json",
+                "*/*.locations.json"
+            ],
+            "url": "https://emotracker.net/developers/schemas/locations.json"
+        }                                   
+    ] 
+}

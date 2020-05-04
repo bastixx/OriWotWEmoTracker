@@ -1,0 +1,16 @@
+﻿{
+    "name": "OriWotW randomiser tracker",
+    "game_name": "Ori and the Will of the Wisps",
+    "game_variant": "None",
+    "package_version": "1.0.0.0",
+    "package_uid": "OriWotWEmoTracker",
+    "author": "Bastixx",
+    "variants": {
+        "standard": {
+          "display_name": "Skills + Wisps"
+        },
+        "all_trackables": {
+          "display_name": "All trackables + Map"
+        }
+    }
+}

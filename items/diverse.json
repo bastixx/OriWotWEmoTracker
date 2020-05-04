@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Spirit Light",
+        "type": "consumable",
+        "min_quantity": 0,
+        "ignore_user_input": false,
+        "img": "images/Diverse/SpiritLight.png",
+        "codes": "spiritlight"
+    },
+    {
+        "name": "Keystone",
+        "type": "consumable",
+        "min_quantity": 0,
+        "ignore_user_input": false,
+        "img": "images/Diverse/Keystone.png",
+        "codes": "keystone"
+    }
+
+]
