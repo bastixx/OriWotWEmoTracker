@@ -14,6 +14,17 @@
         "ignore_user_input": false,
         "img": "images/Diverse/Keystone.png",
         "codes": "keystone"
+    },
+    {
+        "name": "Clean water",
+        "type": "toggle",
+        "img": "images/Diverse/CompleteWatermillEscape.png",
+        "codes": "cleanwater, cw, statecw"
+    },
+    {
+        "name": "Town wall broken",
+        "type": "toggle",
+        "img": "images/Diverse/ReachWellspringGlades.png",
+        "codes": "townopened, to, stateto"
     }
-
 ]
