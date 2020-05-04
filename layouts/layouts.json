@@ -53,6 +53,7 @@
         "type": "itemgrid",
         "item_margin": "4,5",
         "item_size": 50,
+        "h_alignment": "left",
         "rows": [
             [ "statecw", "stateto"]
         ]

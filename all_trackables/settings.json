@@ -1,4 +1,4 @@
 {
     "disabled_image_filter": "grayscale, dim",
-    "allow_resize": false
+    "allow_resize": true
 }

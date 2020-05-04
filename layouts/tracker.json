@@ -2,6 +2,8 @@
     "tracker_default": {
         "type": "array",
         "background": "#1C1C1C",
+        "width": 300,
+        "height": 450,
         "content": [
             {
                 "type": "array",
