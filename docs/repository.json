@@ -1,12 +1,12 @@
 {
     "name": "Bastixx's packages",
     "packages": [
-    {
+        {
         "name": "OriWotW randomiser tracker",
         "author": "Bastixx",
         "version": "1.0.0",
         "uid": "OriWotWEmoTracker",
         "link": "https://bastixx.github.io/OriWotWEmoTracker/OriWotWEmoTracker.zip"
-    }
+        }
     ]
 }
