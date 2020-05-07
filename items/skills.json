@@ -126,6 +126,12 @@
         "codes": "burrow"
     },
     {
+      "name": "Launch",
+      "type": "toggle",
+      "img": "images/Skills/ChargeJump.png",
+      "codes": "launch, chargejump"
+  },
+    {
         "name": "Chakram",
         "type": "progressive",
         "allow_disabled": true,

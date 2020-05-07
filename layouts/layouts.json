@@ -9,7 +9,7 @@
             [ "bash", "lightburst", "sentry", "blaze" ],
             [ "burrow", "leash", "glide", "flap" ],
             [ "flash", "waterbreath", "swimdash", "hammer" ],
-            [ "chakram", "spear", "weaponupgrade" ]
+            [ "chakram", "spear", "launch", "weaponupgrade" ]
         ]
     },
     
